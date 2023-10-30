@@ -1,0 +1,5 @@
+location             = "eastus"
+resource_group_name  = "rg-terraform-azure"
+storage_account_name = "terraformazurekhan12"
+source_content       = "<h1> Hello World</h1>"
+index_document       = "index.html"
